@@ -33,7 +33,7 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
  <img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
  <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/>
  <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
- <img src="https://img.icons8.com/fluent/48/4a90e2/mysql.png"/>
+ <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
  <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
  <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> 
 <!-- https://img.icons8.com/color/48/4a90e2/mysql.png --> 
