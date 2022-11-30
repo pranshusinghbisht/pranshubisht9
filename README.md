@@ -28,11 +28,15 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/html.png"/><img src="https://img.icons8.com/color/48/4a90e2/css3.png"/><img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/mysql.png"/> <img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> 
-<!-- https://img.icons8.com/color/48/4a90e2/mysql.png -->
- 
- <img src="https://img.icons8.com/fluent/48/4a90e2/mysql.png"/> 
- 
+<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/html.png"/>
+ <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>
+ <img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
+ <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/>
+ <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
+ <img src="https://img.icons8.com/fluent/48/4a90e2/mysql.png"/>
+ <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
+ <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> 
+<!-- https://img.icons8.com/color/48/4a90e2/mysql.png --> 
 </p>
 
 <br>
