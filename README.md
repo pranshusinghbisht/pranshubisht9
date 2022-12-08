@@ -42,7 +42,7 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=pranshubisht9&theme=react-dark)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=pranshubisht9&theme=react-dark) -->
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=pranshubisht9&theme=dark&hide_border=false" width = 500>
 
