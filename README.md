@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranshubisht9
 - 👀 https://www.pranshusinghbisht.online/
-- 📄 Know about my experiences:  <a href="./assets/resume/pranshu_bisht_resume.pdf" download target="_blank"> Resume_Pranshu_Singh_Bisht </a>
+- 📄 Know about my experiences:  <a href="./assets/resume/pranshu_bisht_resume.pdf" download> Resume_Pranshu_Singh_Bisht </a>
 
 <!---
 
