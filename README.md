@@ -31,7 +31,13 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+ 
+ <img src="https://www.pranshusinghbisht.online/assets/Skills-Logos/L_spring-boot-logo.png" width="50px"/>
  <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/>
+ 
+ 
+ <img src="https://www.pranshusinghbisht.online/assets/Skills-Logos/L_spring-icon.svg" width="50px"/>
+ 
  <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="50px"/>
  <img src="https://img.icons8.com/color/48/4a90e2/html.png"/>
  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>
@@ -39,6 +45,7 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
  
 
  <img width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
+ <img src = "https://www.pranshusinghbisht.online/assets/Skills-Logos/L_hibernate.svg" width="50px"/>
  <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> 
  
  <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
