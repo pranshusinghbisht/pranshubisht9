@@ -32,15 +32,17 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/>
- 
+ <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="50px"/>
  <img src="https://img.icons8.com/color/48/4a90e2/html.png"/>
  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>
  <img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
  
- <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
+
  <img width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
- <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
  <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> 
+ 
+ <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
 <!-- https://img.icons8.com/color/48/4a90e2/mysql.png --> 
 </p>
 
