@@ -40,7 +40,7 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
  
  <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="50px"/>
  
- <img src = "https://seeklogo.com/images/M/maven-logo-5A9B272A6E-seeklogo.com.png" width="50px"/>
+ <img src = "https://seeklogo.com/images/M/maven-logo-5A9B272A6E-seeklogo.com.png" width="60px"/>
  
  <img src="https://img.icons8.com/color/48/4a90e2/html.png"/>
  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>
