@@ -64,7 +64,7 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
 
 <!-- <img src = "https://github-readme-streak-stats.herokuapp.com?user=pranshubisht9&theme=dark&hide_border=false" width = 500> -->
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=pranshubisht9)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pranshubisht9&theme=dark)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pranshubisht9&show_icons=true&theme=dark" width = 500>
 
