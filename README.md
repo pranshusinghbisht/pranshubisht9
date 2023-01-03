@@ -62,7 +62,9 @@ I'm a CSE postgraduate student pursuing MCA and a passionate programmer who love
 <!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=pranshubisht9&theme=react-dark) -->
 [![Pranshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pranshubisht9&theme=react-dark)](https://github.com/pranshubisht9/github-readme-activity-graph)
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=pranshubisht9&theme=dark&hide_border=false" width = 500>
+<!-- <img src = "https://github-readme-streak-stats.herokuapp.com?user=pranshubisht9&theme=dark&hide_border=false" width = 500> -->
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pranshubisht9)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pranshubisht9&show_icons=true&theme=dark" width = 500>
 
